@@ -1,0 +1,4 @@
+.vscode
+*.mmap
+*.xml
+src
